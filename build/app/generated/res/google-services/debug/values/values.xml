@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">618825465242-svvv0u8vsd3pc6713nmvnbbmr7tfife3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">618825465242</string>
+    <string name="google_api_key" translatable="false">AIzaSyCEC9mkWu5qqkROxo1oD-T69Tm1yy1lbzI</string>
+    <string name="google_app_id" translatable="false">1:618825465242:android:3b6f23ca5bba7845364e23</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCEC9mkWu5qqkROxo1oD-T69Tm1yy1lbzI</string>
+    <string name="google_storage_bucket" translatable="false">moneymanagementapp-fe147.appspot.com</string>
+    <string name="project_id" translatable="false">moneymanagementapp-fe147</string>
+</resources>
